@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      <h1>To do List</h1>
+      <h1 className="text-3xl font-bold underline">To do List</h1>
     </>
   )
 }
